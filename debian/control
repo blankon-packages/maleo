@@ -3,8 +3,7 @@ Section: gnome
 Priority: optional
 Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
 Standards-Version: 3.9.1
-Build-Depends: cdbs, debhelper (>= 7.3.5)
-
+Build-Depends: cdbs, debhelper (>= 7.3.5), autotools-dev,  gnome-common (>= 3.10.0), libglib2.0-dev, libgtk-3-dev,  libtool, libseed-gtk3-dev, libxml2-dev (>=2.9.0), libvala-0.20-dev, libwebkitgtk-3.0-dev, libjavascriptcoregtk-3.0-dev, valac-0.20, automake1.9
 
 Package: maleo
 Architecture: all

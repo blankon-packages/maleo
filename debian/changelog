@@ -1,5 +1,27 @@
-maleo (0.1) suroboyo; urgency=low
+maleo (0.4) suroboyo; urgency=low
 
-  * Upstream changes name
+  * Upstream release with new name
+  * Now html5app call maleo
+  * New Support: Node.JS App
 
- -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Thu, 05 Dec 2013 20:51:01 +0700
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Thu, 05 Dec 2013 22:07:21 +0700
+
+html5app (0.3) suroboyo; urgency=low
+
+  * * Change: Configure.am add po
+  * Add : po
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 06 Oct 2013 20:35:18 +0700
+
+html5app (0.2) suroboyo; urgency=low
+
+  * debian/control
+    - Depend chromium-browser to chromium 
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 28 Sep 2013 07:17:48 +0700
+
+html5app (0.1) rote; urgency=low
+
+  * Initial release.
+
+ -- Mohammad Anwari <mdamt@di.blankon.in>  Mon, 10 Oct 2011 13:40:41 +0300

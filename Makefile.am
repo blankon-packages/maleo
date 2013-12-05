@@ -4,6 +4,7 @@ NULL =
 
 SUBDIRS = \
 	src \
+	po \
 	$(NULL)
 
 maleodocdir = ${prefix}/doc/maleo
