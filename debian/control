@@ -1,0 +1,17 @@
+Source: maleo
+Section: gnome
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Standards-Version: 3.9.1
+Build-Depends: cdbs, debhelper (>= 7.3.5)
+
+
+Package: maleo
+Architecture: all
+Depends: chromium-browser, zenity 
+Provides: html5app
+Conflicts: html5app
+Replaces: html5app
+Description: Maleo HTML5 application runner 
+ This package provides HTML5 application runner.
+
