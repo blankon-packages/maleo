@@ -1,3 +1,9 @@
+maleo (0.7) tambora; urgency=low
+
+  * Release tambora
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Sat, 08 Mar 2014 09:13:49 +0700
+
 maleo (0.6) suroboyo; urgency=low
 
   * Drop Depends: zenity
