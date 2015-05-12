@@ -1,3 +1,9 @@
+maleo (0.8) tambora; urgency=low
+
+  * Added Depends section, because maleo need depends libseed-gtk3-0 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Tue, 12 May 2015 22:35:31 +0700
+
 maleo (0.7) tambora; urgency=low
 
   * Release tambora
