@@ -1,3 +1,9 @@
+maleo (0.10) uluwatu; urgency=medium
+
+  * Fixed depends
+
+ -- Anto Samalona <ansamsoftdev@gmail.com>  Sun, 21 May 2017 21:19:03 +0800
+
 maleo (0.9) uluwatu; urgency=medium
 
   * upload to uluwatu.
